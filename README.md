@@ -1,3 +1,6 @@
+<转载>
+[1、大神github点这里](https://github.com/GoverSky/HTMLTestRunner)
+[2、悠悠github点这里](https://github.com/yoyoketang/selenium_report)
 # 优化html报告
 
 为了满足小伙伴的各种变态需求，为了装逼提示逼格，为了让报告更加高大上，测试报告做了以下优化：
